@@ -65,6 +65,7 @@ https://github.com/megawebtech/Prometheus/blob/master/node_exporter_service_runn
 
 https://github.com/megawebtech/Prometheus/blob/master/status_configuration1.JPG
 
+https://github.com/megawebtech/Prometheus/blob/master/status_configuration2.JPG
 
 
 
