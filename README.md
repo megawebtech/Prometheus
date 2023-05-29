@@ -1,7 +1,6 @@
 
 Домашнее задание "Система мониторинга Prometheus"   Ярчак Александр
 
-# Prometheus
 
 Задание 1
 
@@ -64,7 +63,7 @@ https://github.com/megawebtech/Prometheus/blob/master/node_exporter_service_runn
 
 Статус конфигурации из интерфейса prometheus:
 
-https://github.com/megawebtech/Prometheus/blob/master/status_configuration.JPG
+https://github.com/megawebtech/Prometheus/blob/master/status_configuration1.JPG
 
 
 
