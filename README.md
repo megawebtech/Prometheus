@@ -19,4 +19,25 @@
     Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО]
 
 
+Скачал Prometheus, разместил файлы  вцелевые директории, создал пользователя prometheus, создал сервис
+
+https://github.com/megawebtech/Prometheus/blob/master/prometheus_service_running.JPG
+
+
+
+Задание 2
+
+Установите Node Exporter.
+Процесс выполнения
+
+    Выполняя ДЗ сверяйтесь с процессом отражённым в записи лекции.
+    Скачайте node exporter приведённый в презентации и в соответствии с лекцией разместите файлы в целевые директории
+    Создайте сервис для как показано на уроке
+    Проверьте что node exporter запускается, останавливается, перезапускается и отображает статус с помощью systemctl
+
+Требования к результату
+
+    Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
+
+
 
