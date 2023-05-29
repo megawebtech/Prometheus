@@ -60,3 +60,16 @@ https://github.com/megawebtech/Prometheus/blob/master/node_exporter_service_runn
     Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
 
 
+Отредактировал файл конфигурации prometheus
+
+Статус конфигурации из интерфейса prometheus:
+
+https://github.com/megawebtech/Prometheus/blob/master/status_configuration.JPG
+
+
+
+
+Статус targets:
+
+https://github.com/megawebtech/Prometheus/blob/master/status_end_point.JPG
+
